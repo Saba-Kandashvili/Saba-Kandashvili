@@ -1,4 +1,4 @@
 
--  I’m currently studying computer science at Tbilisi State University (TSU)
+-  Studying computer science at Tbilisi State University (TSU)
 -  Full Stack developer at Structo
--  How to reach me: sabakandashvili2004@gmail.com
+-  Reach me via Email: sabakandashvili2004@gmail.com
